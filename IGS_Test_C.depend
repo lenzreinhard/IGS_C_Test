@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665111906 source:c:\igs\igs_test_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<string.h>
+
